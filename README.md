@@ -3,8 +3,8 @@
     <img src="doc-img/banner.png" alt="Ernie Logo" width="100%" style="border-radius:18px"/>
     <br>
 <p>
-# TheFlickrFetcher
 
+# TheFlickrFetcher
 TheFlickrFetcher is a tool that allows you to download large amounts of image data from Flickr. Up to 1500 images can be downloaded for one search term. The tool is primarily aimed at machine learning experts to systematically collect image data in a folder structure. A folder can be downloaded for training, testing and validation. The folder structure is then also compatible with generators from Tensorflow / Keras. Additionally, it is possible to save the URLs of the images to be downloaded in a .CSV-File. The only requirement is Python 3 (+ packages from requirements.txt) and a free API key from Flickr.
 
 ## Installation
